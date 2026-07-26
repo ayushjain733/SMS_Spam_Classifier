@@ -26,7 +26,7 @@ Try the live app here: **[SMS Spam Classifier](https://message-classifier.stream
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/ayushjain733/SMS_Spam_Classifier.git](https://github.com/ayushjain733/SMS_Spam_Classifier.git)
+git clone https://github.com/ayushjain733/SMS_Spam_Classifier.git
 cd SMS_Spam_Classifier
 ```
 
